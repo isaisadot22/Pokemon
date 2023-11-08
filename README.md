@@ -7,4 +7,4 @@ Ideias para o projeto:
 -- Escolha de times baseado em cor para ganhar um lendário;
 -- Referência de animes/jogos por escolha dos participantes da equipe;
 -- Trilha sonora dependendo do momento da batalha, caminhada etc.;
--- Pensando em usar HTML e CSS;
+-- Utilizando biblioteca raylib.
